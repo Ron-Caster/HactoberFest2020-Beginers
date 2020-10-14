@@ -26,6 +26,7 @@ void bubbleSort(int *array, int size) {
 }
 int main() {
    int n;
+   cout << "BUBBLE SORT";
    cout << "Enter the number of elements: ";
    cin >> n;
    int arr[n];     //create an array with given number of elements
